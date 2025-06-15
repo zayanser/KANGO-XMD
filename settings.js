@@ -20,11 +20,11 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'KANGO-XMD' 
+global.botname = process.env.BOT_NAME || '❤❥❥═══𝓩𝓐𝓨𝓐𝓝𝓢𝓔𝓡 ══❤' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '601117508525' 
 
 //--------------------[ SUDO ]--------------------------//
 
